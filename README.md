@@ -1,3 +1,12 @@
+# Gerenciamento de tarefas React
+Realizado fork do projeto e implementado um gerenciamento de tarefas do React com as tecnologias:
+- Redux
+- TypeScript
+- React Router
+- Styled Componets
+
+Neste projeto pratiquei meu conhecimento das tecnologias que orbitam o ecossistema React, construindo uma lista de tarefas completa com edição, remoção, adição e filtros. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
